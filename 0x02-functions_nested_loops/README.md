@@ -1,2 +1,2 @@
-program that prints putchar
+alphabet game
 
