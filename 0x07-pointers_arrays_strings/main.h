@@ -2,6 +2,7 @@
 #define MAIN_H
 
 #include <stdio:h>
+
 char *_memset(char *s, char b, unsighned int n);
 char *_memcpy(char *dest, char *src, unsigned int n);
 char *_strchr(char *s, char c);
@@ -12,4 +13,4 @@ void print_chessboard(char (*a)[8]);
 void print_diagsums(int *a, int size);
 void set_string(char **s, char *to);
 
-#endif /* MAIN_H */I
+#endif /* MAIN_H */
