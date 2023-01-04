@@ -1,7 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-#include <stdio:h>
+#include <stdio.h>
 
 char *_memset(char *s, char b, unsighned int n);
 char *_memcpy(char *dest, char *src, unsigned int n);

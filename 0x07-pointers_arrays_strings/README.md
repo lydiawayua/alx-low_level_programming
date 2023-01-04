@@ -1,1 +1,1 @@
-function that fills memory with a costant byte
+function that copies memory area
