@@ -1,1 +1,1 @@
-neither irony nor sarcasm is argument
+to infinity and beyond
