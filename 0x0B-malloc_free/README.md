@@ -1,1 +1,1 @@
-he who is not courageous enough to take risk will accomplish nothing in life
+if you even dream of beating me you'd better wake up and apologise
