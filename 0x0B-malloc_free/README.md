@@ -1,1 +1,1 @@
-the woman who has no imagination has no wings
+he who is not courageous enough to take risk will accomplish nothing in life
