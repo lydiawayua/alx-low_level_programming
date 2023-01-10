@@ -1,1 +1,1 @@
-float like a diamond,sting like a bee
+the woman who has no imagination has no wings
