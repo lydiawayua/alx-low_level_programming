@@ -1,1 +1,1 @@
-function like macro
+sum
