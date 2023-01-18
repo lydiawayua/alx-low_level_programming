@@ -1,1 +1,1 @@
-a dog will teach you unconditional love.If you can have that in your life,things wont be too bad
+outside of a dog, a book is a man's bestfriend.Inside of a dog it's too dark to read
