@@ -1,5 +1,3 @@
-es (13  sloc)  238 Bytes
-
 #include "main.h"
 
 /**
@@ -15,4 +13,3 @@ int _isupper(int c)
 	else
 		return (0);
 }
-
