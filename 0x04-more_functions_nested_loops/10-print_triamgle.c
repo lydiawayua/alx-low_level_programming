@@ -3,6 +3,7 @@
 /**
  * print_triangle - prints triangle using "#" character of a given size
  *@size: size of triangle
+ *
  * Return: void
  */
 void print_triangle(int size)
@@ -14,46 +15,30 @@ void print_triangle(int size)
 		if (size == 1)
 		{
 			_putchar(35);
-																			_putchar('\n');
-																		}
+			_putchar('\n');
+		}
 		else
-		{
-																			while (i <= size)
-																			{	a = 0;
-																				while (a < size - i)
-																				{
-																																						_putchar(' ');
-																																						a++;
-																																				}
-																				a = 0;
-																																				while (a < i)
-																																				{
-																																					_putchar(35);
-																																																					a++;
-																																																				}
-																																				_putchar('\n');
-																																				i++;
-																																			}
-																		}
+		{		
+			while (i <= size)
+			{	a = 0;
+			while (a < size - i)
+			{
+				_putchar(' ');
+				a++;
+			}
+			a = 0;
+			while (a < i)
+			{		
+				_putchar(35);
+				a++;
+			}
+			_putchar('/');
+			i++;
+			}
+	}	
 	}
 	else
 	{
-		_putchar('\n');
+		_putchar('/');
 	}
 }
-
-
-
-    
-        
-	
-	        
-		   
-		        
-			   
-			       
-				    
-				       
-					  
-
-
